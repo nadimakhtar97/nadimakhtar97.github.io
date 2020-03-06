@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Montserrat, "Helvetica Neue", Arial, sans-serif;
+}
+
+.nav {
+    font-size: 15px;
+    font-style: normal;
+}
+
+#c1 {
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    position: relative;
+    bottom: 12rem;
+}
+
+#c2 {
+    text-align: center;
+    text-transform: capitalize;
+    position: relative;
+    bottom: 12rem;
+}
+
+#backgroundimg {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./software-developer-3182374_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+#about {
+    background-color: #ffffff;
+    margin-top: 5rem;
+    position: relative;
+    top: 5rem;
+}
+
+#slideshow {
+    height: 75%;
+}
+
+#about {
+    box-sizing: content-box;
+}
+
+#professionalskills {
+    margin: auto;
+    font-size: 30px;
+    position:relative;
+    text-align: center;
+    display: block;
+    font-weight: bolder;
+    top: 9rem;
+}
+
+#persionalskillcontainer {
+    font-size: x-large;
+    padding: 0;
+    position: relative;
+    top: 10rem;
+}
+
+#avtar  {
+    border-radius: 50% !important;
+    height: 200px;
+    width: 200px;
+    background-image: url(./nadim007.jpg);
+    background-size: cover;
+    margin: auto;
+    display: block;
+}
+
+#profile{
+
+    margin: auto;
+    text-align: center;
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 25em;
+    
+    
+}
+
+#navbar{
+
+    background-color: #378C3F;
+    margin-right:0;
+    padding-right: 3rem;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 1rem;
+}
